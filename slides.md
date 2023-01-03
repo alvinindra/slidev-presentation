@@ -91,6 +91,8 @@ yarn create slidev
 After **npm init slidev**, you can type your project name and choose install with package (npm, yarn or pnpm), in my case i use **npm**.
 
 ---
+class: px-20
+---
 ### **Command Line Interface**
 
 In a project where Slidev is installed, you can use the `slidev` binary in your npm scripts.
